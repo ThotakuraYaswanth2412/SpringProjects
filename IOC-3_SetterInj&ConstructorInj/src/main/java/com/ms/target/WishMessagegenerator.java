@@ -30,7 +30,7 @@ public class WishMessagegenerator
 		}
 		else if(hour<16)
 		{
-			return " hi goodAfternoon"+"..."+user+"..."+date;
+			return "goodAfternoon"+"..."+user+"..."+date;
 		}
 		else if(hour<20)
 		{
